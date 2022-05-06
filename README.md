@@ -9,4 +9,4 @@ La fuente de Markdown y los conceptos básicos para escribir utilizando este len
 La fuente de comando se obtuvo desde [Este sitio web](https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/) 
 
 #### Rama
-Se creo rama de prueba Rama1_camila y se elimino
+Se creo rama de prueba Rama1_camila y se elimino.
